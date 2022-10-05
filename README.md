@@ -1,2 +1,2 @@
 # IT007-Practice
-This is a place to store result of IT007
+This is a place to store report of IT007
