@@ -1,2 +1,20 @@
-# IT007-Practice
-This is IT007's Report Storage
+<!-- Banner -->
+<p align="center">
+  <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: none;">
+    <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
+  </a>
+</p>
+
+<!-- Title -->
+<h1 align="center"><b>Operating System</b></h1>
+
+## LECTURE INFO
+* **Lecture name:** Operating System
+* **Lecture Code:** IT007
+* **Class Code:** IT007.N11.KHTN
+* **Year:** Semester 1(2020 - 2021)
+* **Lecturer**:  
+  - Vũ Đức Lung - *lungvd@uit.edu.vn*  
+  - Thân Thế Tùng - *tungtt@uit.edu.vn*
+<!-- Footer -->
+<p align='center'>Copyright © 2020 - Lương Toàn Bách</p>
