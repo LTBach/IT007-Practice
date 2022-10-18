@@ -25,7 +25,7 @@ do
 done
 echo "Input string you want to find in $filename:"
 read string
-if [ $(stringtoboolean "$grep $string $filename") = "true" ]
+if [ $(stringtoboolean "$grep $string $filename") ]
 then 
 	echo "$string exist in $filename"
 else 
