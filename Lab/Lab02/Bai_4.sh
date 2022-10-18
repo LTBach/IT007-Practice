@@ -1,18 +1,5 @@
 #!/bin/bash
 
-function stringtoboolean() {
-	if [ $# != 1 ]
-	then 
-		echo "Err: Number of parameter more than 1";
-		exit 1
-	fi
-	
-	case $1 in
-		"") echo true;;
-		*) echo false;;
-	esac
-}
-
 while true
 do
 	echo "Input filename:"
@@ -25,7 +12,7 @@ do
 done
 echo "Input string you want to find in $filename:"
 read string
-if [ $(stringtoboolean "$grep $string $filename") ]
+if [[ `grep $string $filename` != "" ]]
 then 
 	echo "$string exist in $filename"
 else 
