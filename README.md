@@ -12,9 +12,9 @@
 * **Lecture name:** Operating System
 * **Lecture Code:** IT007
 * **Class Code:** IT007.N11.KHTN
-* **Year:** Semester 1(2020 - 2021)
+* **Year:** Semester 1(2022 - 2023)
 * **Lecturer**:  
   - Theory - Vũ Đức Lung - *lungvd@uit.edu.vn*  
   - Practice - Thân Thế Tùng - *tungtt@uit.edu.vn*
 <!-- Footer -->
-<p align='center'>Copyright © 2021 - Lương Toàn Bách</p>
+<p align='center'>Copyright © 2022 - Lương Toàn Bách</p>
