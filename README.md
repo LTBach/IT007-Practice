@@ -14,7 +14,7 @@
 * **Class Code:** IT007.N11.KHTN
 * **Year:** Semester 1(2020 - 2021)
 * **Lecturer**:  
-  - Vũ Đức Lung - *lungvd@uit.edu.vn*  
-  - Thân Thế Tùng - *tungtt@uit.edu.vn*
+  - Theory - Vũ Đức Lung - *lungvd@uit.edu.vn*  
+  - Practice - Thân Thế Tùng - *tungtt@uit.edu.vn*
 <!-- Footer -->
-<p align='center'>Copyright © 2020 - Lương Toàn Bách</p>
+<p align='center'>Copyright © 2021 - Lương Toàn Bách</p>
